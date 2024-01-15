@@ -1,6 +1,6 @@
 - Hello, I’m @Andrew-J-Gardner
-- I’m interested in Quality Assurance, Desktop Application Development, and Web Developement
-- I’m currently learning C
+- I’m interested in Quality Assurance, Desktop Application Development, Databases, and Web Development
+- Looking to make the jump professionally from testing to development
 - How to reach me: email me at andrew@texasgardners.com
 
 <!---
